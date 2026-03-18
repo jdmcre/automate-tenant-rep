@@ -118,8 +118,6 @@ export default function Home() {
           lineHeight: 1.6,
         }}>
           Tools built for tenant rep brokers.
-          <br />
-          Coming soon.
         </p>
       </main>
 

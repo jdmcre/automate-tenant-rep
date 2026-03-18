@@ -7,10 +7,10 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 
 export const metadata: Metadata = {
   title: "AutomateTenantRep",
-  description: "Tools built for tenant rep brokers. Coming soon.",
+  description: "Tools built for tenant rep brokers. ",
   openGraph: {
     title: "AutomateTenantRep",
-    description: "Tools built for tenant rep brokers. Coming soon.",
+    description: "Tools built for tenant rep brokers. ",
     url: "https://automatetenantrep.com",
     siteName: "AutomateTenantRep",
     type: "website",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "AutomateTenantRep",
-    description: "Tools built for tenant rep brokers. Coming soon.",
+    description: "Tools built for tenant rep brokers. ",
   },
 };
 
